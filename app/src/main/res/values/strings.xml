@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toggle Button</string>
+    <string name="want_to_receive_newsletters">Do you want to receive newsletters?</string>
+    <string name="let_us_know_it">Let us know it!</string>
+    <string name="turned_on">Newsletters ON</string>
+    <string name="turned_off">Newsletters OFF</string>
+    <string name="message_for_turned_on_button">Cool! We will send newsletters.</string>
+    <string name="message_for_turned_off_button">OK! We won\'t send newsletters.</string>
+</resources>
